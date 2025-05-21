@@ -110,6 +110,10 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 
 # Capturas de Pantalla
 
+### Inicio de Sesion
+
+![Inicio de sesion](/screenshots/login.png)
+
 # Documentacion
 
 Para acceder a la configuración completa accede a la carpeta 
