@@ -114,6 +114,7 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 
 # Capturas de Pantalla
 
+<<<<<<< HEAD
 ### Inicio de Sesión
 
 ![Login del Sistema](/screenshots/Login.PNG)
@@ -142,6 +143,12 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 
 ![Ordenes](/screenshots/Ordenes.PNG)
 
+=======
+### Inicio de Sesion
+
+![Login del Sistema](/screenshots/Login.PNG)
+
+>>>>>>> 913f4cfad21bacda7c7f8243eae4b942a2e65769
 # Documentacion
 
 Para acceder a la configuración completa accede a la carpeta 
