@@ -1,5 +1,9 @@
 # SharkEnergy
 
+![Logo](/logo/SharkEnergy.jpeg)
+
+---
+
 ## Descripcion de la Problematica
 
 Un familiar de uno de los integrantes de este equipo, se comunicó con nosotros para solicitarnos un sistema de gestión de Inventario y una página web, pues estaba arreglando todo para poder abrir un negocio de calentadores solares y paneles solares.
@@ -109,6 +113,34 @@ Revisión y retroalimentación constante: Una de las ventajas de la metodología
 Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funcionalidades desarrolladas para garantizar su correcto funcionamiento. Esto incluyó pruebas de las transacciones de venta, el manejo de inventarios y la estabilidad general del sistema.
 
 # Capturas de Pantalla
+
+### Inicio de Sesión
+
+![Login del Sistema](/screenshots/Login.PNG)
+
+### Dashboard
+
+![Inicio](/screenshots/DashBoard.PNG)
+
+### Clientes
+
+![Tabla de Clientes](/screenshots/Clientes.PNG)
+
+### Proveedores
+
+![Tabla de Proveedores](/screenshots/Proveedores.PNG)
+
+### Productos
+
+![Tabla de Productos](/screenshots/Productos.PNG)
+
+### POS
+
+![POS](/screenshots/POS.PNG)
+
+### Ordenes
+
+![Ordenes](/screenshots/Ordenes.PNG)
 
 # Documentacion
 
