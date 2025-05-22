@@ -112,7 +112,7 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 
 ### Inicio de Sesion
 
-![Inicio de sesion](/screenshots/login.png)
+![Login del Sistema](/screenshots/Login.PNG)
 
 # Documentacion
 
