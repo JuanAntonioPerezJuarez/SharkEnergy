@@ -151,3 +151,8 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 Para acceder a la configuración completa accede a la carpeta 
 
 > Documentation
+
+
+### Software Utilizado para la Creación de este proyecto
+
+![Laravel](/requirments/laravel.png)
