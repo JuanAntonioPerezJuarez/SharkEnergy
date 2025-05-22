@@ -134,15 +134,14 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 
 ![Tabla de Productos](/screenshots/Productos.PNG)
 
-### POS
+### Punto de Venta
 
-![POS](/screenshots/POS.PNG)
+![Punto de Venta](/screenshots/PuntoVenta.PNG)
 
 ### Ordenes
 
 ![Ordenes](/screenshots/Ordenes.PNG)
 
-=======
 ### Inicio de Sesion
 
 ![Login del Sistema](/screenshots/Login.PNG)
