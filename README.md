@@ -34,10 +34,6 @@
 
 ![Ordenes](/screenshots/Ordenes.PNG)
 
-### Inicio de Sesion
-
-![Login del Sistema](/screenshots/Login.PNG)
-
 ### Inicialización del Contenedor
 
 ![Docker](/screenshots/LoadingDocker.PNG)
