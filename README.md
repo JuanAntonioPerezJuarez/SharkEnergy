@@ -156,3 +156,7 @@ Para acceder a la configuración completa accede a la carpeta
 ### Software Utilizado para la Creación de este proyecto
 
 ![Laravel](/requirments/laravel.png)
+
+![Node.JS](/requirments/NodeJS.png)
+
+![XAMPP](/requirments/XAMPP.jpg)
