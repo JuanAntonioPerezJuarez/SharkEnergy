@@ -146,6 +146,10 @@ Pruebas continuas: A lo largo de cada sprint, se realizaron pruebas en las funci
 
 ![Login del Sistema](/screenshots/Login.PNG)
 
+### Inicialización del Contenedor
+
+![Docker](/screenshots/LoadingDocker.PNG)
+
 # Documentacion
 
 Para acceder a la configuración completa accede a la carpeta 
